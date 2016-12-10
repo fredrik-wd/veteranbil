@@ -8,10 +8,10 @@
         
         <?php
                     
-                    $servername = "fwinvest.eu.mysql";
-                    $username = "fwinvest_eu_bilbutikk";
+                    $servername = "SKJULT AV SIKKERHETSHENSYN";
+                    $username = "SKJULT AV SIKKERHETSHENSYN";
                     $password = "SKJULT AV SIKKERHETSHENSYN";
-                    $dbname = "fwinvest_eu_bilbutikk";
+                    $dbname = "SKJULT AV SIKKERHETSHENSYN";
                     
                     $conn = new mysqli($servername, $username, $password, $dbname);
 
